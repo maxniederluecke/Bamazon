@@ -1,3 +1,3 @@
 # Bamazon
 
-![Placing an order](/screenshots/sc)
+![Placing an order](/screenshots/sc.png)
